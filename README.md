@@ -12,7 +12,7 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 **Ano:** 2021-2022   
 **Função:** Quality Assurance Analyst (através da Level Up! Brasil, subsidiária da Tencent Games)     
 **Descrição:** Participei como analista de QA durante pouco mais de um ano no Ragnarok Online. Fui um dos responsáveis pelos testes de manutenções semanais, testes de novos conteúdos das atualizações/updates e dos report de bugs à Gravity.   
-- 🎮 [Página do CABR](https://combatarms-c-br.valofe.com/)  
+- 🎮 [Site Oficial](https://playragnarokonlinebr.com/)  
 
 ### Combat Arms Brasil (CABR)
 ![imagem](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.mmogames.com%2Fwp-content%2Fuploads%2F2009%2F12%2Fshooter-mmo-games-combat-arms-combat-screenshot.jpg&f=1&nofb=1&ipt=b18ab11f11624c901bc0b5433da89fee56f9cbf463315e6c574676753a3bb5a2)  
@@ -20,14 +20,14 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 **Ano:** 2021-2022   
 **Função:** Quality Assurance Analyst (através da Level Up! Brasil, subsidiária da Tencent Games)     
 **Descrição:** Participei como analista de QA durante pouco mais de um ano no Combat Arms Brasil. Fui um dos responsáveis pelos testes de manutenções semanais, testes de novos conteúdos das atualizações e dos report de bugs à Valofe.   
-- 🎮 [Página do CABR](https://combatarms-c-br.valofe.com/)  
+- 🎮 [Site Oficial](https://combatarms-c-br.valofe.com/)  
 
 ### The Next World 
 ![imagem](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/427860/header.jpg?t=1582745024)  
 **Estúdio:** Illuminated Games     
 **Ano:** 2016  
 **Função:** Quality Assurance Tester   
-**Descrição:** Participei como QA de forma voluntária na etapa final de produção do projeto.
+**Descrição:** Participei como QA de forma voluntária na etapa final de produção do projeto, através da identificação e do report de bugs enviados ao desenvolvedor principal.
 - 🎮 [Compre na Steam](https://store.steampowered.com/app/427860/The_Next_World/)  
 - 🔗 [Site Oficial](https://thenextworldgame.com/)
 
