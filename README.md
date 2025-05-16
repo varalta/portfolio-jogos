@@ -2,7 +2,7 @@
 Meus jogos desenvolvidos. 🎮
 
 ## Indie Games
-*Odisseia de Luna*. Magari Game Studio. Pre-print publicado no GitHub. [[Artigo]((https://gamejolt.com/games/odisseia-de-luna/180746)]]
+*Odisseia de Luna*. Magari Game Studio. Pre-print publicado no GitHub. [[Artigo](https://gamejolt.com/games/odisseia-de-luna/180746)]
 
 
 ## Game Jam Games
