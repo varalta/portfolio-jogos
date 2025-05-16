@@ -16,7 +16,7 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 - 🔗 [Site Oficial](https://thenextworldgame.com/)
 
 ### Guardiões da Natureza: Revitalização
-![imagem](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/427860/header.jpg?t=1582745024)  
+![imagem](https://static.wixstatic.com/media/dc6cef_b57d064d10794859bf7f10a6c5bfec9f~mv2.png/v1/fill/w_544,h_416,al_c,q_85,enc_auto/dc6cef_b57d064d10794859bf7f10a6c5bfec9f~mv2.png)  
 **Estúdio:** Silverlake Produções      
 **Ano:** 2020  
 **Estado:** Desenvolvimento Pausado  
