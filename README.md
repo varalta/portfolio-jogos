@@ -25,7 +25,7 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 **Ano:** 2023  
 **Função:** Música, SFX e QA   
 **Premiação:** O jogo conquistou o 1º lugar na Jam. 🏆     
-**Descrição:** Participei sob meu pseudônimo "Rare Lava Cats". 
+**Descrição:** 1999. Quatro amigos de infância (Clarice, Afonso, Sabrina e Marcos) decidem se reunir em uma casa de campo, com o intuito de relembrar os bons e velhos tempos. No entanto, ao cair da noite, Clarice propõe ao grupo uma perigosa brincadeira... Algo parece ter dado terrivelmente errado. {Participei sob meu pseudônimo "Rare Lava Cats"}. 
 - 🎮 [Página do Jogo](https://mogezilla.itch.io/abraxas)  
 
 ### Odisseia de Luna     
