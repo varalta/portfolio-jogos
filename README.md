@@ -56,9 +56,9 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 
 ### Egg Catcher - Catch The Chocolate Edition
 ![imagem](https://condadobraveheart.com/attachments/nome-jogo-png.2599/)  
-**Ano:** 2021  
-**Função:** Sound Designer, Compositor Musical e Game Designer.
-**Descrição:** Participei na concepção deste jogo simples para um evento denominado [Pascoalium Fest](https://condadobraveheart.com/threads/evento-de-pascoa-pascoalium-fest.6843/). Trabalhei principalmente com a produção musical e efeitos sonoros, mas também auxiliei na concepção de mecânicas e sistemas para o jogo.
+**Ano:** 2021    
+**Função:** Sound Designer, Compositor Musical e Game Designer.      
+**Descrição:** Participei na concepção deste jogo simples para um evento denominado [Pascoalium Fest](https://condadobraveheart.com/threads/evento-de-pascoa-pascoalium-fest.6843/). Trabalhei principalmente com a produção musical e efeitos sonoros, mas também auxiliei na concepção de mecânicas e sistemas para o jogo.    
 - 🎮 [Jogue na itch.io](https://gabrieldevbr.itch.io/egg-catcher)
 - 🔗 [Página no Condado](https://condadobraveheart.com/threads/egg-catcher-catch-the-chocolate-edition-pascoalium-fest.6871/)
 
