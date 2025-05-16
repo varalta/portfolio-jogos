@@ -6,13 +6,31 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 
 ## $ Jogos Comerciais
 
+### Brasil Ragnarok Online RPG (bRO)
+![imagem](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.geeksunited.com.br%2Fwp-content%2Fuploads%2F2020%2F09%2Fragnarok-brasil-min.png&f=1&nofb=1&ipt=20c10e702b9f117468b9dab3b07af3531bd62fd8df42443cb10201723657a598)  
+**Estúdio:** Gravity       
+**Ano:** 2021-2022   
+**Função:** Quality Assurance Analyst (através da Level Up! Brasil, subsidiária da Tencent Games)     
+**Descrição:** Participei como analista de QA durante pouco mais de um ano no Ragnarok Online. Fui um dos responsáveis pelos testes de manutenções semanais, testes de novos conteúdos das atualizações/updates e dos report de bugs à Gravity.   
+- 🎮 [Página do CABR](https://combatarms-c-br.valofe.com/)  
+
 ### Combat Arms Brasil (CABR)
 ![imagem](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.mmogames.com%2Fwp-content%2Fuploads%2F2009%2F12%2Fshooter-mmo-games-combat-arms-combat-screenshot.jpg&f=1&nofb=1&ipt=b18ab11f11624c901bc0b5433da89fee56f9cbf463315e6c574676753a3bb5a2)  
 **Estúdio:** Nexon, Valofe       
 **Ano:** 2021-2022   
 **Função:** Quality Assurance Analyst (através da Level Up! Brasil, subsidiária da Tencent Games)     
-**Descrição:** Participei como analista de QA durante pouco mais de um ano no Combat Arms Brasil. Era um dos responsáveis pelos testes de manutenções semanais, testes de novos conteúdos das atualizações e dos report de bugs.   
+**Descrição:** Participei como analista de QA durante pouco mais de um ano no Combat Arms Brasil. Fui um dos responsáveis pelos testes de manutenções semanais, testes de novos conteúdos das atualizações e dos report de bugs à Valofe.   
 - 🎮 [Página do CABR](https://combatarms-c-br.valofe.com/)  
+
+### The Next World 
+![imagem](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/427860/header.jpg?t=1582745024)  
+**Estúdio:** Illuminated Games     
+**Ano:** 2016  
+**Função:** Quality Assurance Tester   
+**Descrição:** Participei como QA de forma voluntária na etapa final de produção do projeto.
+- 🎮 [Compre na Steam](https://store.steampowered.com/app/427860/The_Next_World/)  
+- 🔗 [Site Oficial](https://thenextworldgame.com/)
+
 
 ---
 
@@ -37,17 +55,8 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 **Descrição:** Participei compondo a trilha sonora original do jogo, e ajudando a guiar a direção de áudio do mesmo.
 - 🔗 [Site Oficial](https://rafaelbrunislv.wixsite.com/guardioesdanatureza)
 - 🔗 [Página no Condado](https://condadobraveheart.com/threads/guardioes-da-natureza-revitalizacao-atualizado-18-08-2020.5885/)
-- 🔊 [Ouça a Trilha Sonora](https://soundcloud.com/caiovsky/sets/guardioes-da-natureza)  
-
-### The Next World 
-![imagem](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/427860/header.jpg?t=1582745024)  
-**Estúdio:** Illuminated Games     
-**Ano:** 2016  
-**Função:** Quality Assurance Tester   
-**Descrição:** Participei como QA de forma voluntária na etapa final de produção do projeto.
-- 🎮 [Compre na Steam](https://store.steampowered.com/app/427860/The_Next_World/)  
-- 🔗 [Site Oficial](https://thenextworldgame.com/)
-
+- 🔊 [Ouça a Trilha Sonora](https://soundcloud.com/caiovsky/sets/guardioes-da-natureza)
+- 
 ---
 
 ## Game Jams
