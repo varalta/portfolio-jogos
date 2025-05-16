@@ -31,7 +31,7 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 - 🎮 [Site Oficial](https://combatarms-c-br.valofe.com/)  
 
 ### The Next World 
-![imagem](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/427860/header.jpg?t=1582745024)  
+![imagem](https://thenextworldgame.com/wp-content/uploads/2015/11/TNW_main2.png)  
 **Estúdio:** Illuminated Games     
 **Ano:** 2016  
 **Função:** Quality Assurance Tester   
