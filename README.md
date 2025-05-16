@@ -20,7 +20,8 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 ## Game Jams
 
 ### Odisseia de Luna 
-**Evento:** #365indiesjam [Página do Evento](https://gamejolt.com/search?q=%23365indiesjam) 
+**Evento:** #365indiesjam [[Página do Evento](https://gamejolt.com/search?q=%23365indiesjam)]
+
 **Ano:** 2016  
 **Função:** Escritor e Produtor   
 **Descrição:** Preciso descrever...
