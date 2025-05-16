@@ -7,7 +7,7 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 ## 🏠 Jogos Indie
 
 ### The Next World 
-![imagem](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/427860/header.jpg?t=1582745024)
+![imagem](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/427860/header.jpg?t=1582745024)  
 **Estúdio:** Illuminated Games     
 **Ano:** 2016  
 **Função:** Quality Assurance Tester 
