@@ -21,7 +21,7 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 **Estúdio:** Silverlake Produções      
 **Ano:** 2020  
 **Estado:** Desenvolvimento Pausado  
-**Função:** Compositor Musical 
+**Função:** Compositor Musical   
 **Descrição:** Participei compondo a trilha sonora original do jogo, e ajudando a guiar a direção de áudio do mesmo.
 - 🔗 [Site Oficial](https://rafaelbrunislv.wixsite.com/guardioesdanatureza)
 - 🔗 [Página no Condado](https://condadobraveheart.com/threads/guardioes-da-natureza-revitalizacao-atualizado-18-08-2020.5885/)
