@@ -10,23 +10,23 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 ![imagem](https://playragnarokonlinebr.com/img/share/facebookshare.jpg)  
 **Estúdio:** Gravity       
 **Ano:** 2021-2022   
-**Função:** Quality Assurance Analyst (através da Level Up! Brasil, subsidiária da Tencent Games)     
+**Função:** Quality Assurance Analyst (através da Level Up! Games, subsidiária da Tencent Games)     
 **Descrição:** Participei como analista de QA durante pouco mais de um ano no Ragnarok Online. Fui um dos responsáveis pelos testes de manutenções semanais, testes de novos conteúdos das atualizações/updates e dos report de bugs à Gravity.   
 - 🎮 [Site Oficial](https://playragnarokonlinebr.com/)
 
-### Brasil Ragnarok Online RPG (bRO)
+### Perfect World Brasil
 ![imagem](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsuporte.leveluplatam.com%2Fhc%2Ftheming_assets%2F01J0K151NFNH6BVR01VCXW7860&f=1&nofb=1&ipt=e8bf8d6afd7d08695bcd5d0d093eaebdfaff66019f4864cdc938db8402aa2759)  
-**Estúdio:** Gravity       
+**Estúdio:** Beijing Perfect World       
 **Ano:** 2021-2022   
-**Função:** Quality Assurance Analyst (através da Level Up! Brasil, subsidiária da Tencent Games)     
-**Descrição:** Participei como analista de QA durante pouco mais de um ano no Ragnarok Online. Fui um dos responsáveis pelos testes de manutenções semanais, testes de novos conteúdos das atualizações/updates e dos report de bugs à Gravity.   
-- 🎮 [Site Oficial](https://playragnarokonlinebr.com/)  
+**Função:** Quality Assurance Analyst (através da Level Up! Games, subsidiária da Tencent Games)     
+**Descrição:** Participei como analista de QA durante pouco mais de um ano no Perfect World. Fui um dos responsáveis pelos testes de manutenções semanais, testes de novos conteúdos das atualizações/updates e dos report de bugs à Perfect World Games.   
+- 🎮 [Site Oficial](https://perfectworld.com.br/)  
 
 ### Combat Arms Brasil (CABR)
 ![imagem](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.mmogames.com%2Fwp-content%2Fuploads%2F2009%2F12%2Fshooter-mmo-games-combat-arms-combat-screenshot.jpg&f=1&nofb=1&ipt=b18ab11f11624c901bc0b5433da89fee56f9cbf463315e6c574676753a3bb5a2)  
 **Estúdio:** Nexon, Valofe       
 **Ano:** 2021-2022   
-**Função:** Quality Assurance Analyst (através da Level Up! Brasil, subsidiária da Tencent Games)     
+**Função:** Quality Assurance Analyst (através da Level Up! Games, subsidiária da Tencent Games)     
 **Descrição:** Participei como analista de QA durante pouco mais de um ano no Combat Arms Brasil. Fui um dos responsáveis pelos testes de manutenções semanais, testes de novos conteúdos das atualizações e dos report de bugs à Valofe.   
 - 🎮 [Site Oficial](https://combatarms-c-br.valofe.com/)  
 
