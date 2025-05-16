@@ -7,7 +7,7 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 ## $ Jogos Comerciais
 
 ### Brasil Ragnarok Online RPG (bRO)
-![imagem](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.geeksunited.com.br%2Fwp-content%2Fuploads%2F2020%2F09%2Fragnarok-brasil-min.png&f=1&nofb=1&ipt=20c10e702b9f117468b9dab3b07af3531bd62fd8df42443cb10201723657a598)  
+![imagem](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.ome.lt%2FaPecXlQ1mEGX0ncilRIEg9rKNYY%3D%2F970x360%2Fsmart%2Fuploads%2Fconteudo%2Ffotos%2Fragnarok_online_capa.jpg&f=1&nofb=1&ipt=1daf704e7c1e4aaf58f66ddc32856691429aca73661708c729ade17ee7f3cf30)  
 **Estúdio:** Gravity       
 **Ano:** 2021-2022   
 **Função:** Quality Assurance Analyst (através da Level Up! Brasil, subsidiária da Tencent Games)     
