@@ -11,7 +11,7 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 **Estúdio:** Riko Games      
 **Ano:** 2021  
 **Estado:** Desenvolvimento Cancelado  
-**Função:** QA 
+**Função:** QA   
 **Descrição:** Participei colaborando na identificação de bugs e glitches após o lançamento inicial do projeto. Infelizmente, o projeto acabou tendo seu desenvolvimento cancelado.
 - 🎮 [Página na Steam](https://store.steampowered.com/app/1595260/Defiance__Mr_Good_Looking/)
 - 🔗 [Jogue na itch.io](https://riko07.itch.io/dnmgl)
