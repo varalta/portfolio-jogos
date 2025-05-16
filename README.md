@@ -1,3 +1,47 @@
+# 🎮 Jogos Desenvolvidos
+
+Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto autorais quanto em colaboração.
+
+---
+
+## 🏠 Jogos Indie
+
+### 🌙 Odisseia de Luna  
+**Estúdio:** Magari Game Studio  
+**Ano:** 2016  
+**Função:** Escritor e Produtor  
+**Descrição:** Jogo narrativo 2D com foco em imersão e atmosferas oníricas. Desenvolvido de forma independente por uma pequena equipe multidisciplinar.  
+- 🔗 [Página do Jogo](https://link-para-o-jogo.com)  
+- 📄 [Documentação complementar (GDD/Roteiro)](https://link-docs.com)  
+- 🖼️ [Galeria de Imagens](https://link-imagens.com)  
+
+---
+
+## Game Jams
+
+### Odisseia de Luna 
+**Evento:** #365indiesjam [Página do Evento](https://gamejolt.com/search?q=%23365indiesjam)
+**Ano:** 2016  
+**Função:** Escritor e Produtor   
+**Descrição:** Preciso descrever...
+- 🎮 [Página do Jogo](https://gamejolt.com/games/odisseia-de-luna/180746)  
+
+---
+
+## 📚 Organização
+
+As entradas estão divididas por categoria:  
+- **Indie Games:** jogos desenvolvidos fora de eventos/jams, com produção mais longa ou comercial.  
+- **Game Jam Games:** jogos feitos em eventos de curta duração, com foco em prototipagem e criatividade rápida.
+
+Cada projeto inclui:
+- Título
+- Ano
+- Participação
+- Links para acesso ao jogo, materiais complementares e documentação
+
+---
+
 # Jogos Desenvolvidos
 Meus jogos desenvolvidos. 🎮
 
