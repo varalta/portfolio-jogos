@@ -106,7 +106,16 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 **Ano:** 2016  
 **Função:** Escritor e Produtor   
 **Descrição:** Preciso descrever...
-- 🎮 [Jogue na Game Jolt](https://gamejolt.com/games/odisseia-de-luna/180746)  
+- 🎮 [Jogue na Game Jolt](https://gamejolt.com/games/odisseia-de-luna/180746)
+
+### Inside     
+![Imagem](http://i.imgur.com/VTC0hJW.png)  
+**Evento:** The Winter is Coming [[Página do Evento](https://condadobraveheart.com/threads/the-winter-is-coming-resultados.1478/)]  
+**Ano:** 2016  
+**Função:** Escritor e Compositor Musical  
+**Premiação:** O jogo obteve a 2ª maior pontuação no concurso (na categoria "Duplas"). 🎖️    
+**Descrição:** Preciso descrever...
+- 🎮 [Página do Jogo](https://condadobraveheart.com/threads/inside-rmvxa-the-winter-is-coming.1448/)  
 
 ### O Trapaceiro Czar
 ![Imagem]()  
