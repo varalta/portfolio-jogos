@@ -54,6 +54,15 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 - 🎮 [Página na Steam](https://store.steampowered.com/app/1595260/Defiance__Mr_Good_Looking/)
 - 🔗 [Jogue na itch.io](https://riko07.itch.io/dnmgl)
 
+### Egg Catcher - Catch The Chocolate Edition
+![imagem](https://condadobraveheart.com/attachments/nome-jogo-png.2599/)  
+**Ano:** 2021  
+**Função:** Sound Designer, Compositor Musical e Game Designer.
+**Descrição:** Participei na concepção deste jogo simples para um evento denominado [Pascoalium Fest](https://condadobraveheart.com/threads/evento-de-pascoa-pascoalium-fest.6843/). Trabalhei principalmente com a produção musical e efeitos sonoros, mas também auxiliei na concepção de mecânicas e sistemas para o jogo.
+- 🎮 [Jogue na itch.io](https://gabrieldevbr.itch.io/egg-catcher)
+- 🔗 [Página no Condado](https://condadobraveheart.com/threads/egg-catcher-catch-the-chocolate-edition-pascoalium-fest.6871/)
+
+
 ### Guardiões da Natureza: Revitalização
 ![imagem](https://static.wixstatic.com/media/dc6cef_b57d064d10794859bf7f10a6c5bfec9f~mv2.png/v1/fill/w_544,h_416,al_c,q_85,enc_auto/dc6cef_b57d064d10794859bf7f10a6c5bfec9f~mv2.png)  
 **Estúdio:** Silverlake Produções      
