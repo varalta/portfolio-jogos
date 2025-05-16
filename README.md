@@ -33,7 +33,7 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 **Ano:** 2016  
 **Função:** Quality Assurance Tester   
 **Descrição:** Participei como QA de forma voluntária na etapa final de produção do projeto.
-- 🎮 [Compre na Steam](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/427860/header.jpg?t=1582745024)  
+- 🎮 [Compre na Steam](https://store.steampowered.com/app/427860/The_Next_World/)  
 - 🔗 [Site Oficial](https://thenextworldgame.com/)
 
 ---
