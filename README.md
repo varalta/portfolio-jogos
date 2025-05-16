@@ -13,7 +13,18 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 **Função:** Quality Assurance Tester   
 **Descrição:** Participei como QA de forma voluntária na etapa final de produção do projeto.
 - 🎮 [Compre na Steam](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/427860/header.jpg?t=1582745024)  
-- 🔗 [Site Oficial](https://thenextworldgame.com/)  
+- 🔗 [Site Oficial](https://thenextworldgame.com/)
+
+### Guardiões da Natureza: Revitalização
+![imagem](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/427860/header.jpg?t=1582745024)  
+**Estúdio:** Silverlake Produções      
+**Ano:** 2020  
+**Estado:** Desenvolvimento Pausado  
+**Função:** Compositor Musical 
+**Descrição:** Participei compondo a trilha sonora original do jogo, e ajudando a guiar a direção de áudio do mesmo.
+- 🔗 [Site Oficial](https://rafaelbrunislv.wixsite.com/guardioesdanatureza)
+- 🔗 [Página no Condado](https://condadobraveheart.com/threads/guardioes-da-natureza-revitalizacao-atualizado-18-08-2020.5885/)
+- 🔊 [Ouça a Trilha Sonora](https://soundcloud.com/caiovsky/sets/guardioes-da-natureza)  
 
 ---
 
