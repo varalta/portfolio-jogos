@@ -6,14 +6,14 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 
 ## 🏠 Jogos Indie
 
-### 🌙 Odisseia de Luna  
-**Estúdio:** Magari Game Studio  
+### The Next World 
+![imagem](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/427860/header.jpg?t=1582745024)
+**Estúdio:** Illuminated Games     
 **Ano:** 2016  
-**Função:** Escritor e Produtor  
-**Descrição:** Jogo narrativo 2D com foco em imersão e atmosferas oníricas. Desenvolvido de forma independente por uma pequena equipe multidisciplinar.  
-- 🔗 [Página do Jogo](https://link-para-o-jogo.com)  
-- 📄 [Documentação complementar (GDD/Roteiro)](https://link-docs.com)  
-- 🖼️ [Galeria de Imagens](https://link-imagens.com)  
+**Função:** Quality Assurance Tester 
+**Descrição:** Participei como QA de forma voluntária na etapa final de produção do projeto.
+- 🎮 [Compre na Steam](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/427860/header.jpg?t=1582745024)  
+- 🔗 [Site Oficial](https://thenextworldgame.com/)  
 
 ---
 
@@ -26,7 +26,7 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 **Função:** Música, SFX e QA   
 **Premiação:** O jogo conquistou o 1º lugar na Jam. 🏆     
 **Descrição:** 1999. Quatro amigos de infância (Clarice, Afonso, Sabrina e Marcos) decidem se reunir em uma casa de campo, com o intuito de relembrar os bons e velhos tempos. No entanto, ao cair da noite, Clarice propõe ao grupo uma perigosa brincadeira... Algo parece ter dado terrivelmente errado. {Participei sob meu pseudônimo "Rare Lava Cats"}. 
-- 🎮 [Página do Jogo](https://mogezilla.itch.io/abraxas)  
+- 🔗 [Jogue na itch.io](https://mogezilla.itch.io/abraxas)  
 
 ### Odisseia de Luna     
 ![Imagem](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.gjcdn.net%2Fgame-thumbnail%2F500%2F180746-rhkk3dri-v4.webp&f=1&nofb=1&ipt=c5851cd4aa59ca31a66db432d7b9e85b33c64bc9dbeb08a5af993b70a6a0f348)  
@@ -34,7 +34,7 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 **Ano:** 2016  
 **Função:** Escritor e Produtor   
 **Descrição:** Preciso descrever...
-- 🎮 [Página do Jogo](https://gamejolt.com/games/odisseia-de-luna/180746)  
+- 🔗 [Jogue na Game Jolt](https://gamejolt.com/games/odisseia-de-luna/180746)  
 
 ---
 
