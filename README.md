@@ -84,7 +84,7 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 **Ano:** 2021  
 **Função:** Audio Designer & Sound Effects    
 **Premiação:** O jogo conquistou o 61º lugar (entre 3866 jogos) na categoria "Humor". 🎖️      
-**Descrição:** Trabalhei neste projeto com o objetivo de trazer vida à este jogo que tinha uma premissa bastante divertida e engraçada. Além de trabalhar especialmente na produção dos sound effects, também ajudei a implementá-lo com FMOD e fiz a voz original para o trailer de divulgação. 
+**Descrição:** Trabalhei neste projeto com o objetivo de trazer vida, em termos sonoros, à premissa bastante divertida e engraçada do projeto. Produzi todos os efeitos sonoros do projeto, além de auxiliar na implementação de áudio dinâmico com FMOD. Também fiz o roteiro e a narração do trailer de divulgação. 
 - 🎮 [Jogue na itch.io](https://jorgeblanco.itch.io/trouble-in-pizza-town)      
 - 🔗 [Página do jogo na ldjam.com](https://ldjam.com/events/ludum-dare/48/trouble-in-pizza-town)    
 - ⏯️ [Assista ao Trailer](https://www.youtube.com/watch?v=mftG_-x7BHo)    
