@@ -6,15 +6,6 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 
 ## 🏠 Jogos Indie
 
-### The Next World 
-![imagem](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/427860/header.jpg?t=1582745024)  
-**Estúdio:** Illuminated Games     
-**Ano:** 2016  
-**Função:** Quality Assurance Tester   
-**Descrição:** Participei como QA de forma voluntária na etapa final de produção do projeto.
-- 🎮 [Compre na Steam](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/427860/header.jpg?t=1582745024)  
-- 🔗 [Site Oficial](https://thenextworldgame.com/)
-
 ### Guardiões da Natureza: Revitalização
 ![imagem](https://static.wixstatic.com/media/dc6cef_b57d064d10794859bf7f10a6c5bfec9f~mv2.png/v1/fill/w_544,h_416,al_c,q_85,enc_auto/dc6cef_b57d064d10794859bf7f10a6c5bfec9f~mv2.png)  
 **Estúdio:** Silverlake Produções      
@@ -25,6 +16,15 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 - 🔗 [Site Oficial](https://rafaelbrunislv.wixsite.com/guardioesdanatureza)
 - 🔗 [Página no Condado](https://condadobraveheart.com/threads/guardioes-da-natureza-revitalizacao-atualizado-18-08-2020.5885/)
 - 🔊 [Ouça a Trilha Sonora](https://soundcloud.com/caiovsky/sets/guardioes-da-natureza)  
+
+### The Next World 
+![imagem](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/427860/header.jpg?t=1582745024)  
+**Estúdio:** Illuminated Games     
+**Ano:** 2016  
+**Função:** Quality Assurance Tester   
+**Descrição:** Participei como QA de forma voluntária na etapa final de produção do projeto.
+- 🎮 [Compre na Steam](https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/427860/header.jpg?t=1582745024)  
+- 🔗 [Site Oficial](https://thenextworldgame.com/)
 
 ---
 
