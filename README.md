@@ -23,8 +23,9 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 ![Imagem](https://img.itch.zone/aW1hZ2UvMTk0OTA2MC8xMTQ1OTQ5Mi5wbmc=/original/wBOi0t.png)  
 **Evento:** TocaJam Slasher Movies [[Página do Evento](https://itch.io/jam/tocajam2023)]  
 **Ano:** 2023  
-**Função:** Música, SFX e QA    
-**Descrição:** Jogo que conquistou o 1º lugar na Jam. Participei sob meu pseudônimo "Rare Lava Cats". 
+**Função:** Música, SFX e QA   
+**Premiação:** O jogo conquistou o 1º lugar na Jam. 🏆     
+**Descrição:** Participei sob meu pseudônimo "Rare Lava Cats". 
 - 🎮 [Página do Jogo](https://mogezilla.itch.io/abraxas)  
 
 ### Odisseia de Luna     
