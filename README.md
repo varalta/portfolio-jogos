@@ -6,6 +6,16 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 
 ## 🏠 Jogos Indie
 
+### Defiance & Mr. Good Looking
+![imagem](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.akamai.steamstatic.com%2Fsteam%2Fapps%2F1595260%2Fss_df7d8648a63c34b91258fc7300fddeebcff47c97.1920x1080.jpg%3Ft%3D1619704261&f=1&nofb=1&ipt=dec8c948375e564615f738fcffa11f2edf30d93e0848b5ef1e72e34062aaf5a2)  
+**Estúdio:** Riko Games      
+**Ano:** 2021  
+**Estado:** Desenvolvimento Cancelado  
+**Função:** QA 
+**Descrição:** Participei colaborando na identificação de bugs e glitches após o lançamento inicial do projeto. Infelizmente, o projeto acabou tendo seu desenvolvimento cancelado.
+- 🎮 [Página na Steam](https://store.steampowered.com/app/1595260/Defiance__Mr_Good_Looking/)
+- 🔗 [Jogue na itch.io](https://riko07.itch.io/dnmgl)
+
 ### Guardiões da Natureza: Revitalização
 ![imagem](https://static.wixstatic.com/media/dc6cef_b57d064d10794859bf7f10a6c5bfec9f~mv2.png/v1/fill/w_544,h_416,al_c,q_85,enc_auto/dc6cef_b57d064d10794859bf7f10a6c5bfec9f~mv2.png)  
 **Estúdio:** Silverlake Produções      
