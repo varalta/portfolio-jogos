@@ -12,6 +12,14 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 **Ano:** 2021-2022   
 **Função:** Quality Assurance Analyst (através da Level Up! Brasil, subsidiária da Tencent Games)     
 **Descrição:** Participei como analista de QA durante pouco mais de um ano no Ragnarok Online. Fui um dos responsáveis pelos testes de manutenções semanais, testes de novos conteúdos das atualizações/updates e dos report de bugs à Gravity.   
+- 🎮 [Site Oficial](https://playragnarokonlinebr.com/)
+
+### Brasil Ragnarok Online RPG (bRO)
+![imagem](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsuporte.leveluplatam.com%2Fhc%2Ftheming_assets%2F01J0K151NFNH6BVR01VCXW7860&f=1&nofb=1&ipt=e8bf8d6afd7d08695bcd5d0d093eaebdfaff66019f4864cdc938db8402aa2759)  
+**Estúdio:** Gravity       
+**Ano:** 2021-2022   
+**Função:** Quality Assurance Analyst (através da Level Up! Brasil, subsidiária da Tencent Games)     
+**Descrição:** Participei como analista de QA durante pouco mais de um ano no Ragnarok Online. Fui um dos responsáveis pelos testes de manutenções semanais, testes de novos conteúdos das atualizações/updates e dos report de bugs à Gravity.   
 - 🎮 [Site Oficial](https://playragnarokonlinebr.com/)  
 
 ### Combat Arms Brasil (CABR)
