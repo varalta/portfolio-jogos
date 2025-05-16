@@ -78,11 +78,11 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 **Descrição:** 1999. Quatro amigos de infância (Clarice, Afonso, Sabrina e Marcos) decidem se reunir em uma casa de campo, com o intuito de relembrar os bons e velhos tempos. No entanto, ao cair da noite, Clarice propõe ao grupo uma perigosa brincadeira... Algo parece ter dado terrivelmente errado. {Participei sob meu pseudônimo "Rare Lava Cats"}. 
 - 🎮 [Jogue na itch.io](https://mogezilla.itch.io/abraxas)
 
-### Abraxas 
-![Imagem](https://img.itch.zone/aW1hZ2UvMTk0OTA2MC8xMTQ1OTQ5Mi5wbmc=/original/wBOi0t.png)  
-**Evento:** TocaJam Slasher Movies [[Página do Evento](https://itch.io/jam/tocajam2023)]  
-**Ano:** 2023  
-**Função:** Audio Designer & Sound Effects 
+### Trouble in Pizza Town
+![Imagem](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FmftG_-x7BHo%2Fhqdefault.jpg&f=1&nofb=1&ipt=c6c54acbba80aaf247014d2816cf522452f5cfd4a78d11a61f893fac47f995f1)  
+**Evento:** Ludum Dare 48 [[Página do Evento](https://ldjam.com/events/ludum-dare/48/games)]  
+**Ano:** 2021  
+**Função:** Audio Designer & Sound Effects    
 **Premiação:** O jogo conquistou o 61º lugar (entre 3866 jogos) na categoria "Humor". 🎖️      
 **Descrição:** Trabalhei neste projeto com o objetivo de trazer vida à este jogo que tinha uma premissa bastante divertida e engraçada. Além de trabalhar especialmente na produção dos sound effects, também ajudei a implementá-lo com FMOD e fiz a voz original para o trailer de divulgação. 
 - 🎮 [Jogue na itch.io](https://jorgeblanco.itch.io/trouble-in-pizza-town)      
