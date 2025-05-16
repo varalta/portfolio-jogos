@@ -20,7 +20,7 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 ## Game Jams
 
 ### Odisseia de Luna     
-![Logo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.gjcdn.net%2Fgame-thumbnail%2F500%2F180746-rhkk3dri-v4.webp&f=1&nofb=1&ipt=c5851cd4aa59ca31a66db432d7b9e85b33c64bc9dbeb08a5af993b70a6a0f348)
+![Imagem](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.gjcdn.net%2Fgame-thumbnail%2F500%2F180746-rhkk3dri-v4.webp&f=1&nofb=1&ipt=c5851cd4aa59ca31a66db432d7b9e85b33c64bc9dbeb08a5af993b70a6a0f348)  
 **Evento:** #365indiesjam [[Página do Evento](https://gamejolt.com/search?q=%23365indiesjam)]  
 **Ano:** 2016  
 **Função:** Escritor e Produtor   
@@ -59,40 +59,3 @@ Meus jogos desenvolvidos. 🎮
 ## Uncredited
 *Os Jogos e o Daltonismo*. Make the Game, n. 30, p. 50-55. [[Matéria](https://archive.org/details/os-jogos-e-o-daltonismo)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2330.pdf)]
 
-*O Áudio ninja de Zelda: Breath of the Wild*. Make the Game, n. 29, p. 60-63. [[Matéria](https://archive.org/details/o-audio-ninja-de-zelda-botw)] [[Edição completa](https://www.condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2329.pdf)]
-
-*Como o som conta histórias em GWENT*. Make the Game, n. 28, p. 62-64. [[Matéria](https://archive.org/details/ed-28-02)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2328.pdf)]
-
-*Entrevista: Mirabolis Studios*. Make the Game, n. 28, p. 26-30. [[Matéria](https://archive.org/details/ed-28-01)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2328.pdf)]
-
-*Celeste: Harmonia Visual e Sonora*. Make the Game, n. 27, p. 66-70. [[Matéria](https://archive.org/details/ed-28-02_202409)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2327.pdf)]
-
-*Diversão por Descobertas: O Design Multiplicativo em Breath of the Wild*. Make the Game, n. 27, p. 60-64. [[Matéria](https://archive.org/details/ed-27-01)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2327.pdf)]
-
-*Terror Imersivo: As lições do vale sinistro*. Make the Game, n. 26, p. 54-59. [[Matéria](https://archive.org/details/ed-26-02)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2326.pdf)]
-
-*Jogos & Aprendizado: Perspectivas de Jogador, Desenvolvedor e Educador*. Make the Game, n. 26, p. 43-52. [[Matéria](https://archive.org/details/ed-26-01)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2326.pdf)]
-
-*FUS RO DAH: No mundo das Conlangs*. Make the Game, n. 25, p. 20-22. [[Matéria](https://archive.org/details/ed-25)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2325.pdf)]
-
-
-## Matérias publicadas na revista "Make the RPG!"
-*Ninjas, Halloween e Matemática*. Make The RPG!, n. 16, p. 96-98. [[Matéria](https://archive.org/details/ed-16_202409)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED16.pdf)]
-
-*Triple Full: Grandes Pequenas Aventuras*. Make The RPG!, n. 15, p. 90-92. [[Matéria](https://archive.org/details/ed-15-02)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED15.pdf)]
-
-*A Pirataria e o Maker*. Make The RPG!, n. 15, p. 38-47. [[Matéria](https://archive.org/details/ed-15-01)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED15.pdf)]
-
-*Melody Raiser 101*. Make The RPG!, n. 14, p. 84-90. [[Matéria](https://archive.org/details/ed-14)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED14.pdf)]
-
-*Bonjour e um Tour pela França*. Make The RPG!, n. 13, p. 32-34. [[Matéria](https://archive.org/details/ed-13)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED13.pdf)]
-
-*Entrevista: Dark Gaia*. Make The RPG!, n. 12, p. 18-23. [[Matéria](https://archive.org/details/ed-12)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED12.pdf)]
-
-*Estamos Fartos do RTP?*. Make The RPG!, n. 11, p. 30-31. [[Matéria](https://archive.org/details/ed-11)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED11.pdf)]
-
-*Convertendo Vídeos para .OGV*. Make The RPG!, n. 10, p. 69-71. [[Matéria](https://archive.org/details/ed-10)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED10.pdf)]
-
-*O Monomito e a Jornada de Link*. Make The RPG!, n. 09, p. 20-23. [[Matéria](https://archive.org/details/ed-09)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED09.pdf)]
-
-*Os olhos do Desenvolvedor*. Make The RPG!, n. 08, p. 18-19. [[Matéria](https://archive.org/details/ed-08_202409)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_RPG/MRPG-ED08.pdf)]
