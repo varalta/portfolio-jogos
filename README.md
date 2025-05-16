@@ -1,17 +1,17 @@
 # Jogos Desenvolvidos
 Meus jogos desenvolvidos. 🎮
 
-## Jogos Profissionais
-*Aplicação de uma rede perceptron no jogo Pong*. Pre-print publicado no GitHub. [[Artigo](https://github.com/varalta/perceptron-pong/blob/main/artigo.pdf)] [[Repositório](https://github.com/varalta/perceptron-pong/)]
+## Indie Games
+*Odisseia de Luna*. Magari Game Studio. Pre-print publicado no GitHub. [[Artigo]((https://gamejolt.com/games/odisseia-de-luna/180746)] 
 
 
-## Jogos Desenvolvidos em Game Jams
+## Game Jam Games
 *Quatro Setes: Manual do Jogo*. [[Manual completo](https://online.fliphtml5.com/qnywi/cmkm/#p=1)] [[Deixe seu feedback](https://condadobraveheart.com/threads/quatro-setes-manual-do-jogo-como-jogar.8335/)]
 
 *Análise do sistema de personalidades em Refind Self*. Publicado no Slideshare. [[Matéria](https://pt.slideshare.net/slideshow/analise-do-sistema-de-personalidades-em-refind-self/271304421)] [[Participe da discussão](https://condadobraveheart.com/threads/analise-do-sistema-de-personalidades-em-refind-self.8229/)]
 
 
-## Jogos Indie Desenvolvidos
+## Uncredited
 *Os Jogos e o Daltonismo*. Make the Game, n. 30, p. 50-55. [[Matéria](https://archive.org/details/os-jogos-e-o-daltonismo)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2330.pdf)]
 
 *O Áudio ninja de Zelda: Breath of the Wild*. Make the Game, n. 29, p. 60-63. [[Matéria](https://archive.org/details/o-audio-ninja-de-zelda-botw)] [[Edição completa](https://www.condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2329.pdf)]
