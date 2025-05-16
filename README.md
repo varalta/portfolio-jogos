@@ -106,7 +106,17 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 **Ano:** 2016  
 **Função:** Escritor e Produtor   
 **Descrição:** Preciso descrever...
-- 🔗 [Jogue na Game Jolt](https://gamejolt.com/games/odisseia-de-luna/180746)  
+- 🎮 [Jogue na Game Jolt](https://gamejolt.com/games/odisseia-de-luna/180746)  
+
+### O Trapaceiro Czar
+![Imagem]()  
+**Evento:** Concurso de Reinauguração do Condado Braveheart [[Página do Evento](https://condadobraveheart.com/portal/news/concurso-resultados-concurso-de-reinaugura%C3%A7%C3%A3o.253)]  
+**Ano:** 2015  
+**Função:** Programador, Game Designer, Dublador, Ator   
+**Premiação:** O jogo conquistou o 3º lugar do concurso. 🥉  
+**Descrição:** Idealizei este jogo com o objetivo de criar uma experiência gamificada onde os gráficos fossem compostos por fotografias. Utilizei o sistema semelhante ao Super Trunfo para permitir que os jogadores desafiassem o "Czar" em um jogo de cartas. Eu me vesti da forma como idealizei o personagem, e minha mãe foi a responsável pelas fotografias do projeto. O jogo foi programado no motor RPG Maker VX Ace.
+- ⏯️ [Assista uma Jogatina](https://www.youtube.com/watch?v=HLuJXBUABe4)
+- 🎮 [Baixe no MediaFire](https://www.mediafire.com/download/ird5qndn85uwn9n/O+Trapaceiro+Czar.rar)  
 
 ---
 
