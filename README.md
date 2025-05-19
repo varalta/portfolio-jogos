@@ -73,6 +73,14 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 - 🔗 [Página no Condado](https://condadobraveheart.com/threads/guardioes-da-natureza-revitalizacao-atualizado-18-08-2020.5885/)
 - 🔊 [Ouça a Trilha Sonora](https://soundcloud.com/caiovsky/sets/guardioes-da-natureza)
 
+### Tale Builder
+![imagem](https://m.gjcdn.net/game-header/1400/30011-bfdxpwxa-v4.webp)  
+**Estúdio:** Caio Varalta's Epic Games     
+**Ano:** 2014  
+**Estado:** 
+**Função:** Desenvolvedor, Game Designer  
+**Descrição:** --
+- 🎮 [Jogue na Gamejolt](https://m.gjcdn.net/game-header/1400/30011-bfdxpwxa-v4.webp)
 
 ---
 
