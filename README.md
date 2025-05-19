@@ -30,20 +30,6 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 **Descrição:** Participei como analista de QA durante pouco mais de um ano no Combat Arms Brasil. Fui um dos responsáveis pelos testes de manutenções semanais, testes de novos conteúdos das atualizações e dos report de bugs à Valofe.   
 - 🎮 [Site Oficial](https://combatarms-c-br.valofe.com/)  
 
-### The Next World 
-![imagem](https://thenextworldgame.com/wp-content/uploads/2015/11/TNW_main2.png)  
-**Estúdio:** Illuminated Games     
-**Ano:** 2016  
-**Função:** Quality Assurance Tester   
-**Descrição:** Participei como QA de forma voluntária na etapa final de produção do projeto, através da identificação e do report de bugs enviados ao desenvolvedor principal.
-- 🎮 [Compre na Steam](https://store.steampowered.com/app/427860/The_Next_World/)  
-- 🔗 [Site Oficial](https://thenextworldgame.com/)
-
-
----
-
-## 🏠 Jogos Indie
-
 ### Defiance & Mr. Good Looking
 ![imagem](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.akamai.steamstatic.com%2Fsteam%2Fapps%2F1595260%2Fss_df7d8648a63c34b91258fc7300fddeebcff47c97.1920x1080.jpg%3Ft%3D1619704261&f=1&nofb=1&ipt=dec8c948375e564615f738fcffa11f2edf30d93e0848b5ef1e72e34062aaf5a2)  
 **Estúdio:** Riko Games      
@@ -53,6 +39,19 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 **Descrição:** Participei colaborando na identificação de bugs e glitches após o lançamento inicial do projeto. Infelizmente, o projeto acabou tendo seu desenvolvimento cancelado.
 - 🎮 [Página na Steam](https://store.steampowered.com/app/1595260/Defiance__Mr_Good_Looking/)
 - 🔗 [Jogue na itch.io](https://riko07.itch.io/dnmgl)
+
+### The Next World 
+![imagem](https://thenextworldgame.com/wp-content/uploads/2015/11/TNW_main2.png)  
+**Estúdio:** Illuminated Games     
+**Ano:** 2016  
+**Função:** Quality Assurance Tester   
+**Descrição:** Participei como QA de forma voluntária na etapa final de produção do projeto, através da identificação e do report de bugs enviados ao desenvolvedor principal.
+- 🎮 [Compre na Steam](https://store.steampowered.com/app/427860/The_Next_World/)  
+- 🔗 [Site Oficial](https://thenextworldgame.com/)
+
+---
+
+## 🏠 Jogos Indies e Gratuitos
 
 ### Egg Catcher - Catch The Chocolate Edition
 ![imagem](https://condadobraveheart.com/attachments/nome-jogo-png.2599/)  
