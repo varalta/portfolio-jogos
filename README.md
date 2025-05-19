@@ -118,12 +118,12 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 - 🎮 [Página do Jogo](https://condadobraveheart.com/threads/inside-rmvxa-the-winter-is-coming.1448/)  
 
 ### O Trapaceiro Czar
-![Imagem]()  
+![Imagem](http://i.imgur.com/NC9wqph.png)  
 **Evento:** Concurso de Reinauguração do Condado Braveheart [[Página do Evento](https://condadobraveheart.com/portal/news/concurso-resultados-concurso-de-reinaugura%C3%A7%C3%A3o.253)]  
 **Ano:** 2015  
 **Função:** Programador, Game Designer, Dublador, Ator   
 **Premiação:** O jogo conquistou o 3º lugar do concurso. 🥉  
-**Descrição:** Idealizei este jogo com o objetivo de criar uma experiência gamificada onde os gráficos fossem compostos por fotografias. Utilizei o sistema semelhante ao Super Trunfo para permitir que os jogadores desafiassem o "Czar" em um jogo de cartas. Eu me vesti da forma como idealizei o personagem, e minha mãe foi a responsável pelas fotografias do projeto. O jogo foi programado no motor RPG Maker VX Ace.
+**Descrição:** Idealizei este jogo com o objetivo de criar uma experiência gamificada onde os gráficos fossem compostos por fotografias. Utilizei o sistema semelhante ao Super Trunfo para permitir que os jogadores desafiassem o "Czar" em um jogo de cartas. Eu me vesti da forma como idealizei o personagem, e minha mãe foi a responsável pelas fotografias do projeto. O jogo foi programado no motor RPG Maker VX Ace. {Participei sob meu pseudônimo "Aspirante"}.
 - ⏯️ [Assista uma Jogatina](https://www.youtube.com/watch?v=HLuJXBUABe4)
 - 🎮 [Baixe no MediaFire](https://www.mediafire.com/download/ird5qndn85uwn9n/O+Trapaceiro+Czar.rar)  
 
