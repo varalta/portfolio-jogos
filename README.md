@@ -1,6 +1,6 @@
 # 🎮 Portfólio de Jogos
 
-Este repositório centraliza meu portfolio de desenvolvimento de jogos, com enfoque nos jogos criados em competições (game jams), jogos comerciais e jogos gratuitos publicados.
+Este repositório centraliza meu portfolio de desenvolvimento de jogos, com enfoque nas obras desenvolvidas em competições (game jams), e também nos projetos comerciais e gratuitos publicados.
 
 ---
 
