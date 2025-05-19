@@ -4,7 +4,7 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 
 ---
 
-## $ Jogos Comerciais
+## 🏢 Jogos Comerciais
 
 ### Brasil Ragnarok Online RPG (bRO)
 ![imagem](https://playragnarokonlinebr.com/img/share/facebookshare.jpg)  
@@ -106,7 +106,7 @@ Making of do jogo:
 
 ---
 
-## Competições, Eventos e Game Jams
+## 🏆 Competições, Eventos e Game Jams
 
 ### Abraxas 
 ![Imagem](https://img.itch.zone/aW1hZ2UvMTk0OTA2MC8xMTQ1OTQ5Mi5wbmc=/original/wBOi0t.png)  
