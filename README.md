@@ -76,15 +76,23 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 ### Tale Builder
 ![imagem](https://m.gjcdn.net/game-header/1400/30011-bfdxpwxa-v4.webp)  
 **Estúdio:** Caio Varalta's Epic Games     
-**Ano:** 2014  
-**Estado:** 
-**Função:** Desenvolvedor, Game Designer  
+**Ano:** 2014
+**Função:** Desenvolvedor, Game Designer, Roteirista   
 **Descrição:** --
 - 🎮 [Jogue na Gamejolt](https://m.gjcdn.net/game-header/1400/30011-bfdxpwxa-v4.webp)
 
+### Take the Cat
+![imagem](https://m.gjcdn.net/game-header/1400/30011-bfdxpwxa-v4.webp)  
+**Estúdio:** Caio Varalta's Epic Games     
+**Ano:** 2013  
+**Função:** Desenvolvedor, Game Designer   
+**Descrição:** --
+- ⏯️ [Assista a uma Jogatina](https://www.youtube.com/watch?v=MrNivSVFPck)    
+- 🎮 [Jogue na Gamejolt](https://gamejolt.com/games/take-the-cat-it-s-time-to-rage-quit/16458)
+
 ---
 
-## Game Jams
+## Competições, Eventos e Game Jams
 
 ### Abraxas 
 ![Imagem](https://img.itch.zone/aW1hZ2UvMTk0OTA2MC8xMTQ1OTQ5Mi5wbmc=/original/wBOi0t.png)  
@@ -131,7 +139,7 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 **Função:** Programador, Game Designer, Roteirista, Dublador, Ator   
 **Premiação:** O jogo conquistou o 3º lugar do concurso. 🥉  
 **Descrição:** Idealizei este jogo com o objetivo de criar uma experiência gamificada onde os gráficos fossem compostos por fotografias. Utilizei o sistema semelhante ao Super Trunfo para permitir que os jogadores desafiassem o "Czar" em um jogo de cartas. Eu me vesti da forma como idealizei o personagem, e minha mãe foi a responsável pelas fotografias do projeto. O jogo foi programado no motor RPG Maker VX Ace. {Participei sob meu pseudônimo "Aspirante"}.
-- ⏯️ [Assista uma Jogatina](https://www.youtube.com/watch?v=HLuJXBUABe4)
+- ⏯️ [Assista a uma Jogatina](https://www.youtube.com/watch?v=HLuJXBUABe4)
 - 🎮 [Baixe-o no MediaFire](https://www.mediafire.com/download/ird5qndn85uwn9n/O+Trapaceiro+Czar.rar)  
 
 ### Preso no Escuro / Trapped in the Dark   
@@ -139,10 +147,8 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 **Evento:** Medo do Escuro, organizado pela Mundo RPG Maker [[Página do Evento](https://web.archive.org/web/20131204210849/http://www.mundorpgmaker.com.br/forum/index.php?topic=116720.0)]   
 **Ano:** 2013  
 **Função:** Programador, Roteirista, Game Designer   
-**Descrição:** Foi uma de minhas primeiras participações em um evento de desenvolvimento de jogos.
-- 🎮 [Jogue-o na Game Jolt[](https://gamejolt.com/games/trapped-in-the-dark/16180)  
-
-
+**Descrição:** Foi uma de minhas primeiras participações em um evento de desenvolvimento de jogos. A premissa do jogo era desenvolver jogos com a temática de terror/suspense.
+- 🎮 [Página do jogo na Game Jolt](https://gamejolt.com/games/trapped-in-the-dark/16180)  
 
 ---
 
