@@ -76,13 +76,13 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 ### Tale Builder
 ![imagem](https://m.gjcdn.net/game-header/1400/30011-bfdxpwxa-v4.webp)  
 **Estúdio:** Caio Varalta's Epic Games     
-**Ano:** 2014
+**Ano:** 2014   
 **Função:** Desenvolvedor, Game Designer, Roteirista   
 **Descrição:** --
 - 🎮 [Jogue na Gamejolt](https://m.gjcdn.net/game-header/1400/30011-bfdxpwxa-v4.webp)
 
 ### Take the Cat
-![imagem](https://m.gjcdn.net/game-header/1400/30011-bfdxpwxa-v4.webp)  
+![imagem](https://m.gjcdn.net/game-header/1200/16458-ll-hkccsagh-v4.webp)  
 **Estúdio:** Caio Varalta's Epic Games     
 **Ano:** 2013  
 **Função:** Desenvolvedor, Game Designer   
@@ -149,36 +149,3 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 **Função:** Programador, Roteirista, Game Designer   
 **Descrição:** Foi uma de minhas primeiras participações em um evento de desenvolvimento de jogos. A premissa do jogo era desenvolver jogos com a temática de terror/suspense.
 - 🎮 [Página do jogo na Game Jolt](https://gamejolt.com/games/trapped-in-the-dark/16180)  
-
----
-
-## 📚 Organização
-
-As entradas estão divididas por categoria:  
-- **Indie Games:** jogos desenvolvidos fora de eventos/jams, com produção mais longa ou comercial.  
-- **Game Jam Games:** jogos feitos em eventos de curta duração, com foco em prototipagem e criatividade rápida.
-
-Cada projeto inclui:
-- Título
-- Ano
-- Participação
-- Links para acesso ao jogo, materiais complementares e documentação
-
----
-
-# Jogos Desenvolvidos
-Meus jogos desenvolvidos. 🎮
-
-## Indie Games
-*Odisseia de Luna*. Magari Game Studio, 2016. Participação como Escritor e Produtor. [[Página do Jogo](https://gamejolt.com/games/odisseia-de-luna/180746)]
-
-
-## Game Jam Games
-*Quatro Setes: Manual do Jogo*. [[Manual completo](https://online.fliphtml5.com/qnywi/cmkm/#p=1)] [[Deixe seu feedback](https://condadobraveheart.com/threads/quatro-setes-manual-do-jogo-como-jogar.8335/)]
-
-*Análise do sistema de personalidades em Refind Self*. Publicado no Slideshare. [[Matéria](https://pt.slideshare.net/slideshow/analise-do-sistema-de-personalidades-em-refind-self/271304421)] [[Participe da discussão](https://condadobraveheart.com/threads/analise-do-sistema-de-personalidades-em-refind-self.8229/)]
-
-
-## Uncredited
-*Os Jogos e o Daltonismo*. Make the Game, n. 30, p. 50-55. [[Matéria](https://archive.org/details/os-jogos-e-o-daltonismo)] [[Edição completa](https://condadobraveheart.com/Portal/Make_The_Game/MakeTheGame%2330.pdf)]
-
