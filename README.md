@@ -45,7 +45,7 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 **Estúdio:** Illuminated Games     
 **Ano:** 2016  
 **Função:** Quality Assurance Tester   
-**Descrição:** Participei como QA de forma voluntária na etapa final de produção do projeto, através da identificação e do report de bugs enviados ao desenvolvedor principal.
+**Descrição:** Participei como QA de forma voluntária na etapa final de produção do projeto, através da identificação de bugs e envio de reports ao desenvolvedor principal.
 - 🎮 [Compre na Steam](https://store.steampowered.com/app/427860/The_Next_World/)  
 - 🔗 [Site Oficial](https://thenextworldgame.com/)
 
