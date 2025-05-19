@@ -1,6 +1,6 @@
 # 🎮 Jogos Desenvolvidos
 
-Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto autorais quanto em colaboração.
+Este repositório centraliza meu portfolio de desenvolvimento de jogos, com enfoque nos jogos criados em competições (game jams), jogos comerciais e jogos gratuitos publicados.
 
 ---
 
