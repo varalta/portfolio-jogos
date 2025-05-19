@@ -73,6 +73,20 @@ Este repositório centraliza meus projetos de desenvolvimento de jogos, tanto au
 - 🔗 [Página no Condado](https://condadobraveheart.com/threads/guardioes-da-natureza-revitalizacao-atualizado-18-08-2020.5885/)
 - 🔊 [Ouça a Trilha Sonora](https://soundcloud.com/caiovsky/sets/guardioes-da-natureza)
 
+### Sect and the Silent Tower
+![imagem](https://static.wixstatic.com/media/a0c2cc_f315b04148ad4a7d96f28d7b99618b4a~mv2.png/v1/crop/x_0,y_0,w_195,h_158/fill/w_273,h_221,al_c,lg_1,q_85,enc_avif,quality_auto/a0c2cc_f315b04148ad4a7d96f28d7b99618b4a~mv2.png)  
+**Ano:** 2016    
+**Função:** Programador, Roteirista, Game Designer     
+**Descrição:** --
+- 🎮 [Baixe-o em Português](https://archive.org/details/SectEATorreSilenciosa.7z)
+- 🎮 [Baixe-o em Inglês](https://www.mediafire.com/file/n4ox3j4ww8j2mad)
+- 🔗 [Documento de Making Of](https://www.mediafire.com/file/g3wfg4cscsd4ox5/Sect_and_the_Silent_Tower_MAKINGOF.pdf/file)
+
+
+Versão em Ingles 
+Versão em ptbr 
+Making of do jogo: 
+
 ### Tale Builder
 ![imagem](https://m.gjcdn.net/game-header/1400/30011-bfdxpwxa-v4.webp)  
 **Estúdio:** Caio Varalta's Epic Games     
