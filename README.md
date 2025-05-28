@@ -11,7 +11,7 @@ Este repositório centraliza meu portfolio de desenvolvimento de jogos, com enfo
 **Estúdio:** Gravity       
 **Ano:** 2021-2022   
 **Função:** Quality Assurance Analyst (através da Level Up! Games, subsidiária da Tencent Games)     
-**Descrição:** Participei como analista de QA durante pouco mais de um ano no Ragnarok Online. Fui um dos responsáveis pelos testes de manutenções semanais, testes de novos conteúdos das atualizações/updates e dos report de bugs à Gravity.   
+**Descrição:** Participei como analista de QA durante mais de um ano no Ragnarok Online. Fui um dos responsáveis pelos testes de manutenções semanais, testes de novos conteúdos das atualizações/updates e dos report de bugs à Gravity.   
 - 🎮 [Site Oficial](https://playragnarokonlinebr.com/)
 
 ### Perfect World Brasil
@@ -19,7 +19,7 @@ Este repositório centraliza meu portfolio de desenvolvimento de jogos, com enfo
 **Estúdio:** Beijing Perfect World       
 **Ano:** 2021-2022   
 **Função:** Quality Assurance Analyst (através da Level Up! Games, subsidiária da Tencent Games)     
-**Descrição:** Participei como analista de QA durante pouco mais de um ano no Perfect World. Fui um dos responsáveis pelos testes de manutenções semanais, testes de novos conteúdos das atualizações/updates e dos report de bugs à Perfect World Games.   
+**Descrição:** Participei como analista de QA durante mais de um ano no Perfect World. Fui um dos responsáveis pelos testes de manutenções semanais, testes de novos conteúdos das atualizações/updates e dos report de bugs à Perfect World Games.   
 - 🎮 [Site Oficial](https://perfectworld.com.br/)  
 
 ### Combat Arms Brasil (CABR)
@@ -27,7 +27,7 @@ Este repositório centraliza meu portfolio de desenvolvimento de jogos, com enfo
 **Estúdio:** Nexon, Valofe       
 **Ano:** 2021-2022   
 **Função:** Quality Assurance Analyst (através da Level Up! Games, subsidiária da Tencent Games)     
-**Descrição:** Participei como analista de QA durante pouco mais de um ano no Combat Arms Brasil. Fui um dos responsáveis pelos testes de manutenções semanais, testes de novos conteúdos das atualizações e dos report de bugs à Valofe.   
+**Descrição:** Participei como analista de QA durante mais de um ano no Combat Arms Brasil. Fui um dos responsáveis pelos testes de manutenções semanais, testes de novos conteúdos das atualizações e dos report de bugs à Valofe.    
 - 🎮 [Site Oficial](https://combatarms-c-br.valofe.com/)  
 
 ### Defiance & Mr. Good Looking
@@ -36,7 +36,7 @@ Este repositório centraliza meu portfolio de desenvolvimento de jogos, com enfo
 **Ano:** 2021  
 **Estado:** Desenvolvimento Cancelado  
 **Função:** QA   
-**Descrição:** Participei colaborando na identificação de bugs e glitches após o lançamento inicial do projeto. Infelizmente, o projeto acabou tendo seu desenvolvimento cancelado.
+**Descrição:** Participei colaborando na identificação de bugs e glitches após o lançamento inicial do projeto. Infelizmente, o projeto acabou tendo seu desenvolvimento cancelado.   
 - 🎮 [Página na Steam](https://store.steampowered.com/app/1595260/Defiance__Mr_Good_Looking/)
 - 🔗 [Jogue na itch.io](https://riko07.itch.io/dnmgl)
 
@@ -45,7 +45,7 @@ Este repositório centraliza meu portfolio de desenvolvimento de jogos, com enfo
 **Estúdio:** Illuminated Games     
 **Ano:** 2016  
 **Função:** Quality Assurance Tester   
-**Descrição:** Participei como QA de forma voluntária na etapa final de produção do projeto, através da identificação de bugs e envio de reports ao desenvolvedor principal.
+**Descrição:** Participei como QA de forma voluntária na etapa final de produção do projeto. Atuei na identificação de bugs e envio de reports diários ao desenvolvedor principal.    
 - 🎮 [Compre na Steam](https://store.steampowered.com/app/427860/The_Next_World/)  
 - 🔗 [Site Oficial](https://thenextworldgame.com/)
 
@@ -57,7 +57,7 @@ Este repositório centraliza meu portfolio de desenvolvimento de jogos, com enfo
 ![imagem](https://condadobraveheart.com/attachments/nome-jogo-png.2599/)  
 **Ano:** 2021    
 **Função:** Sound Designer, Compositor Musical e Game Designer.      
-**Descrição:** Participei na concepção deste jogo simples para um evento denominado [Pascoalium Fest](https://condadobraveheart.com/threads/evento-de-pascoa-pascoalium-fest.6843/). Trabalhei principalmente com a produção musical e efeitos sonoros, mas também auxiliei na concepção de mecânicas e sistemas para o jogo.    
+**Descrição:** Participei na concepção deste jogo hypercasual para um evento denominado [Pascoalium Fest](https://condadobraveheart.com/threads/evento-de-pascoa-pascoalium-fest.6843/). Trabalhei principalmente com a produção musical e efeitos sonoros, mas também auxiliei na concepção de mecânicas e sistemas para o jogo.     
 - 🎮 [Jogue na itch.io](https://gabrieldevbr.itch.io/egg-catcher)
 - 🔗 [Página no Condado](https://condadobraveheart.com/threads/egg-catcher-catch-the-chocolate-edition-pascoalium-fest.6871/)
 
@@ -68,7 +68,7 @@ Este repositório centraliza meu portfolio de desenvolvimento de jogos, com enfo
 **Ano:** 2020  
 **Estado:** Desenvolvimento Pausado  
 **Função:** Compositor Musical   
-**Descrição:** Participei compondo a trilha sonora original do jogo, e ajudando a guiar a direção de áudio do mesmo.
+**Descrição:** Participei compondo a trilha sonora original do jogo, e colaborando para guiar a direção de áudio dele.   
 - 🔗 [Site Oficial](https://rafaelbrunislv.wixsite.com/guardioesdanatureza)
 - 🔗 [Página no Condado](https://condadobraveheart.com/threads/guardioes-da-natureza-revitalizacao-atualizado-18-08-2020.5885/)
 - 🔊 [Ouça a Trilha Sonora](https://soundcloud.com/caiovsky/sets/guardioes-da-natureza)
@@ -76,23 +76,18 @@ Este repositório centraliza meu portfolio de desenvolvimento de jogos, com enfo
 ### Sect and the Silent Tower
 ![imagem](https://static.wixstatic.com/media/a0c2cc_f315b04148ad4a7d96f28d7b99618b4a~mv2.png/v1/crop/x_0,y_0,w_195,h_158/fill/w_273,h_221,al_c,lg_1,q_85,enc_avif,quality_auto/a0c2cc_f315b04148ad4a7d96f28d7b99618b4a~mv2.png)  
 **Ano:** 2016    
-**Função:** Programador, Roteirista, Game Designer     
-**Descrição:** --
+**Função:** Programador, Roteirista, Game Designer      
+**Descrição:** Projeto de RPG com enfoque na exploração desenvolvido no RPG Maker 95.    
 - 🎮 [Baixe-o em Português](https://archive.org/details/SectEATorreSilenciosa.7z)
 - 🎮 [Baixe-o em Inglês](https://www.mediafire.com/file/n4ox3j4ww8j2mad)
 - 🔗 [Documento de Making Of](https://www.mediafire.com/file/g3wfg4cscsd4ox5/Sect_and_the_Silent_Tower_MAKINGOF.pdf/file)
-
-
-Versão em Ingles 
-Versão em ptbr 
-Making of do jogo: 
 
 ### Tale Builder
 ![imagem](https://m.gjcdn.net/game-header/1400/30011-bfdxpwxa-v4.webp)  
 **Estúdio:** Caio Varalta's Epic Games     
 **Ano:** 2014   
 **Função:** Desenvolvedor, Game Designer, Roteirista   
-**Descrição:** --
+**Descrição:** Foi uma de minhas primeiras ideias originais concretizadas em um jogo. A jogabilidade envolve escrever sinônimos de diversas palavras para que o personagem narrador traga uma história utilizando as palavras escritas pelo jogador.  
 - 🎮 [Jogue na Gamejolt](https://m.gjcdn.net/game-header/1400/30011-bfdxpwxa-v4.webp)
 
 ### Take the Cat
@@ -100,7 +95,7 @@ Making of do jogo:
 **Estúdio:** Caio Varalta's Epic Games     
 **Ano:** 2013  
 **Função:** Desenvolvedor, Game Designer   
-**Descrição:** --
+**Descrição:** Um jogo de puzzle no estilo 2D com enfoque na dificuldade elevada, como vista no subgênero "hardcore platformer". Foi um jogo que teve seu desenvolvimento inspirado em obras como Super Meat Boy, que estavam em ascenção na época.   
 - ⏯️ [Assista a uma Jogatina](https://www.youtube.com/watch?v=MrNivSVFPck)    
 - 🎮 [Jogue na Gamejolt](https://gamejolt.com/games/take-the-cat-it-s-time-to-rage-quit/16458)
 
@@ -114,7 +109,7 @@ Making of do jogo:
 **Ano:** 2023  
 **Função:** Música, SFX e QA   
 **Premiação:** O jogo conquistou o 1º lugar na Jam. 🏆     
-**Descrição:** 1999. Quatro amigos de infância (Clarice, Afonso, Sabrina e Marcos) decidem se reunir em uma casa de campo, com o intuito de relembrar os bons e velhos tempos. No entanto, ao cair da noite, Clarice propõe ao grupo uma perigosa brincadeira... Algo parece ter dado terrivelmente errado. {Participei sob meu pseudônimo "Rare Lava Cats"}. 
+**Descrição:** Um jogo de puzzle 2D com atmosfera de terror baseada nos filmes de Slasher. Desenvolvido para participar da gamejam promovida pelo Toca do Dragão em parceria com Condado Braveheart. Participei especialmente na área de áudio do projeto, mas também ajudei um pouco com o roteiro e executei diversos testes para garantir a qualidade final do jogo. {Participei sob meu pseudônimo "Rare Lava Cats"}.    
 - 🎮 [Jogue na itch.io](https://mogezilla.itch.io/abraxas)
 
 ### Trouble in Pizza Town
@@ -123,19 +118,20 @@ Making of do jogo:
 **Ano:** 2021  
 **Função:** Audio Designer & Sound Effects    
 **Premiação:** O jogo conquistou o 61º lugar (entre 3866 jogos) na categoria "Humor". 🎖️      
-**Descrição:** Trabalhei neste projeto com o objetivo de trazer vida, em termos sonoros, à premissa bastante divertida e engraçada do projeto. Produzi todos os efeitos sonoros do projeto, além de auxiliar na implementação de áudio dinâmico com FMOD. Também fiz o roteiro e a narração do trailer de divulgação. 
+**Descrição:** Trabalhei neste projeto com o objetivo de trazer vida, em termos sonoros, à premissa bastante divertida e engraçada do projeto. Produzi todos os efeitos sonoros do projeto, além de auxiliar na implementação de áudio dinâmico com FMOD. Também fiz o roteiro e a narração do trailer de divulgação.   
 - 🎮 [Jogue na itch.io](https://jorgeblanco.itch.io/trouble-in-pizza-town)      
 - 🔗 [Página do jogo na ldjam.com](https://ldjam.com/events/ludum-dare/48/trouble-in-pizza-town)    
-- ⏯️ [Assista ao Trailer](https://www.youtube.com/watch?v=mftG_-x7BHo)    
+- ⏯️ [Assista ao Trailer](https://www.youtube.com/watch?v=mftG_-x7BHo)      
 
 
 ### Odisseia de Luna     
 ![Imagem](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fm.gjcdn.net%2Fgame-thumbnail%2F500%2F180746-rhkk3dri-v4.webp&f=1&nofb=1&ipt=c5851cd4aa59ca31a66db432d7b9e85b33c64bc9dbeb08a5af993b70a6a0f348)  
 **Evento:** #365indiesjam [[Página do Evento](https://gamejolt.com/search?q=%23365indiesjam)]  
 **Ano:** 2016  
-**Função:** Escritor e Produtor   
-**Descrição:** Preciso descrever...
-- 🎮 [Jogue-o na Game Jolt](https://gamejolt.com/games/odisseia-de-luna/180746)
+**Função:** Escritor e Produtor     
+**Descrição:** Participei atuando na escrita do roteiro do jogo e auxiliando na produção geral do projeto (coordenando a equipe, definindo o escopo do projeto, priorizando a entrega dentro do prazo final da jam).  
+- 🎮 [Jogue-o na Game Jolt](https://gamejolt.com/games/odisseia-de-luna/180746)    
+- ⏯️ [Assista ao Trailer](https://www.youtube.com/watch?v=YlALiHK-ZsA)  
 
 ### Inside     
 ![Imagem](http://imgur.com/Uve5Fyr.png)  
