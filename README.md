@@ -87,7 +87,7 @@ Este repositório centraliza meu portfolio de desenvolvimento de jogos, com enfo
 **Estúdio:** Caio Varalta's Epic Games     
 **Ano:** 2014   
 **Função:** Desenvolvedor, Game Designer, Roteirista   
-**Descrição:** Foi uma de minhas primeiras ideias originais concretizadas em um jogo. A jogabilidade envolve escrever sinônimos de diversas palavras para que o personagem narrador traga uma história utilizando as palavras escritas pelo jogador.  
+**Descrição:** Foi uma de minhas primeiras ideias originais concretizadas em um jogo. A jogabilidade consiste em escrever sinônimos de diversas palavras para que o personagem narrador conte uma história utilizando as palavras escritas pelo jogador.  
 - 🎮 [Jogue na Gamejolt](https://m.gjcdn.net/game-header/1400/30011-bfdxpwxa-v4.webp)
 
 ### Take the Cat
@@ -139,7 +139,7 @@ Este repositório centraliza meu portfolio de desenvolvimento de jogos, com enfo
 **Ano:** 2016  
 **Função:** Escritor e Compositor Musical  
 **Premiação:** O jogo obteve a 2ª maior pontuação no concurso (na categoria "Duplas"). 🎖️    
-**Descrição:** Preciso descrever...
+**Descrição:** Participei na produção deste projeto através da construção da ambientação sonora e da escrita do roteiro principal / das missões do jogo.
 - 🎮 [Página do Jogo](https://condadobraveheart.com/threads/inside-rmvxa-the-winter-is-coming.1448/)  
 
 ### O Trapaceiro Czar
@@ -157,5 +157,5 @@ Este repositório centraliza meu portfolio de desenvolvimento de jogos, com enfo
 **Evento:** Medo do Escuro, organizado pela Mundo RPG Maker [[Página do Evento](https://web.archive.org/web/20131204210849/http://www.mundorpgmaker.com.br/forum/index.php?topic=116720.0)]   
 **Ano:** 2013  
 **Função:** Programador, Roteirista, Game Designer   
-**Descrição:** Foi uma de minhas primeiras participações em um evento de desenvolvimento de jogos. A premissa do jogo era desenvolver jogos com a temática de terror/suspense.
+**Descrição:** Foi uma de minhas primeiras participações em um evento de desenvolvimento de jogos. A premissa do evento era promover o desenvolvimento de jogos com a temática de terror/suspense.
 - 🎮 [Página do jogo na Game Jolt](https://gamejolt.com/games/trapped-in-the-dark/16180)  
