@@ -7,7 +7,7 @@ Este repositório centraliza meu portfolio de desenvolvimento de jogos, com enfo
 ## 🏢 Jogos Comerciais
 
 ### Brasil Ragnarok Online RPG (bRO)
-![imagem](https://playragnarokonlinebr.com/img/share/facebookshare.jpg)  
+![imagem](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.mobilebit.com.br%2Fwp-content%2Fuploads%2F2026%2F04%2Fragnarok-online-brasil.webp&f=1&nofb=1&ipt=0fdac25220698f90e8d0bf37aa55a09e9e8cf74bff3a7126d21b12581e2a835e)  
 **Estúdio:** Gravity       
 **Ano:** 2021-2022   
 **Função:** Quality Assurance Analyst (através da Level Up! Games, subsidiária da Tencent Games)     
@@ -41,7 +41,7 @@ Este repositório centraliza meu portfolio de desenvolvimento de jogos, com enfo
 - 🔗 [Jogue na itch.io](https://riko07.itch.io/dnmgl)
 
 ### The Next World 
-![imagem](https://thenextworldgame.com/wp-content/uploads/2015/11/TNW_main2.png)  
+![imagem](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.ep-cdn.com%2Fi%2F500%2F500%2Fsn%2Fsnkmuibrepjyfwxolzcv%2Fsteam-the-next-world-key-global-cene.jpg&f=1&nofb=1&ipt=4acabd4236657c5244a326d207a973c1bddcaf066f07d407afc09b27c5eba5de)  
 **Estúdio:** Illuminated Games     
 **Ano:** 2016  
 **Função:** Quality Assurance Tester   
