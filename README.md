@@ -41,7 +41,7 @@ Este repositório centraliza meu portfolio de desenvolvimento de jogos, com enfo
 - 🔗 [Jogue na itch.io](https://riko07.itch.io/dnmgl)
 
 ### The Next World 
-![imagem](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.ep-cdn.com%2Fi%2F500%2F500%2Fsn%2Fsnkmuibrepjyfwxolzcv%2Fsteam-the-next-world-key-global-cene.jpg&f=1&nofb=1&ipt=4acabd4236657c5244a326d207a973c1bddcaf066f07d407afc09b27c5eba5de)  
+![imagem](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3.us-east-2.amazonaws.com%2Fgmag.io-live-us%2Fgames%2Flogos%2F22592_6464919a0f29e.jpg&f=1&nofb=1&ipt=aece77b9e4dda679470bbbda279138c2bc916e94c26df953b89028b26ba63f7f)  
 **Estúdio:** Illuminated Games     
 **Ano:** 2016  
 **Função:** Quality Assurance Tester   
